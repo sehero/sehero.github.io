@@ -2,7 +2,7 @@ body     { xbackground-color: #778899;
            background: linear-gradient(to right,  #778899 ,white); 
            min-width: 200px; 
            margin: 20px; 
-p          color: dimgray; 
+p          color: red; xdimgray; 
            font-size: small;
            font-family: 'Muli', sans-serif; 
          }
