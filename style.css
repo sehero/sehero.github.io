@@ -2,7 +2,6 @@ body     { xbackground-color: #778899;
            background: linear-gradient(to right,  #778899 ,white); 
            min-width: 200px; 
            margin: 20px; 
-p          color: red; xdimgray; 
            font-size: small;
            font-family: 'Muli', sans-serif; 
          }
@@ -27,6 +26,7 @@ p          color: red; xdimgray;
 	   width: 200px; 
            float: right;  
          }
+ul,li,p  { color: xdimgray; }
 a        { text-decoration: none;  }
 a:hover  { text-decoration: underline; }
 hr       { border-top: 1px solid #CCC; }
