@@ -21,6 +21,8 @@ p          color: dimgray;
          }
 .banner  { background-color: #e5ebf4; 
  	   margin-top:20px; 
+           box-shadow:         3px 3px 5px 6px #ccc;  
+           margin-right: 20px;
 	   border: 1px solid #CCC; 
 	   width: 200px; 
            float: right;  
