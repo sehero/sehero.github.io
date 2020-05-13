@@ -1,5 +1,5 @@
 body     { xbackground-color: #778899;
-           background: linear-gradient(to left,  #778899 ,white); 
+           background: linear-gradient(to right,  #778899 ,white); 
            min-width: 200px; 
            margin: 20px; 
 p          color: dimgray; 
@@ -20,7 +20,7 @@ p          color: dimgray;
 	   background-color: white;
          }
 .banner  { background-color: #e5ebf4; 
- 	   padding-top:20px; 
+ 	   margin-top:20px; 
 	   border: 1px solid #CCC; 
 	   width: 200px; 
            float: right;  
