@@ -26,12 +26,12 @@ body     { xbackground-color: #778899;
 	   width: 200px; 
            float: right;  
          }
-ul,li,p  { color: xdimgray; }
+ul,li,p  { color: dimgray; }
+h1,h2,h3,h4 { color:black; }
 a        { text-decoration: none;  }
 a:hover  { text-decoration: underline; }
 hr       { border-top: 1px solid #CCC; }
 ul       { padding-left: 21px; }
-h1,h2,h3,h4 { color:black; }
 h2       { padding-bottom: 2px;
            padding-left: 5px; 
            color:white; 
